@@ -10,8 +10,9 @@
   font-size: 120%;
   padding: 2% 8%;
 }
-.navi-icon {
-  padding: 20%;
+.nav-btn {
+  text-align: right;
+  margin-right: 8%;
 }
 /*Profile*/
 #title {
